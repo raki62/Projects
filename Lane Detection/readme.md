@@ -1,1 +1,1 @@
-Here is a Lane Detevtion Program to detect lanes in a sandbox environment (GTAV here).
+Here is a Lane Detection Program to detect lanes in a sandbox environment (GTAV here).
